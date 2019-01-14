@@ -4,3 +4,7 @@ prototype/golang/IndusAwsLambda/get\.ps1
 prototype/ihm/AJCompo/\.editorconfig
 
 prototype/ihm/AJCompo/package-lock\.json
+
+prototype/golang/src/indusawslambda/get\.ps1
+
+prototype/golang/pkg/windows_amd64/indusawslambda/handler\.a

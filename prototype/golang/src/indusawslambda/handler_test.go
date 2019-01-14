@@ -1,14 +1,16 @@
 package main_test
 
-import (
+import ( 
 	"testing"
-	"github.com/stretchr/testify/assert"
+
 	"github.com/aws/aws-lambda-go/events"
-	"test1"
+	"github.com/stretchr/testify/assert"
+
+	"indusawslambda"
 )
- 
+
 func TestHandler(t *testing.T) {
-	request:= events.APIGatewayProxyRequest{Body: "Paul"}
+	request := events.APIGatewayProxyRequest{Body: "Paul"}
 	response, _ := main.HandleRequest(request)
 	assert.Equal(t, "Hello Bobinou", response.Body)
 }
