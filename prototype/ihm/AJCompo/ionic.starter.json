@@ -7,7 +7,9 @@
     "package-lock.json",
     "www"
   ],
-  "scripts": {
+  "scripts": { 
+    "ionic:watch:before": "node ./proxy/proxy.conf.mock.ts",
     "test": "npm run build"
+    
   }
 }

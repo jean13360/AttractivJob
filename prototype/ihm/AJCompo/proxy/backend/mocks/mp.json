@@ -1,0 +1,143 @@
+{
+    "columns": [
+      "metierRech",
+      "metierProx",
+      "performance",
+      "matching_skills",
+      "skills_requires",
+      "missing",
+      "missing_skills"
+    ],
+    "data": [
+      [
+        "Couvreur charpentier / Couvreuse charpentière",
+        "Plombier / Plombière",
+        50,
+        3,
+        6,
+        3,
+        [
+          "Poser des tuiles",
+          "Poser des ardoises",
+          "Déposer une toiture"
+        ]
+      ],
+      [
+        "Couvreur charpentier / Couvreuse charpentière",
+        "Couvreur zingueur / Couvreuse zingueuse",
+        50,
+        3,
+        6,
+        3,
+        [
+          "Procédés de brasage",
+          "Normes de sécurité liées au gaz",
+          "Techniques de soudure"
+        ]
+      ],
+      [
+        "Couvreur charpentier / Couvreuse charpentière",
+        "Carrossier-peintre / Carrossière-peintre",
+        33.333333333333336,
+        2,
+        6,
+        4,
+        [
+          "Normes de sécurité liées au gaz",
+          "Poser des tuiles",
+          "Poser des ardoises",
+          "Déposer une toiture"
+        ]
+      ],
+      [
+        "Couvreur charpentier / Couvreuse charpentière",
+        "Responsable de maintenance en énergie",
+        16.666666666666668,
+        1,
+        6,
+        5,
+        [
+          "Procédés de brasage",
+          "Techniques de soudure",
+          "Poser des tuiles",
+          "Poser des ardoises",
+          "Déposer une toiture"
+        ]
+      ],
+      [
+        "Couvreur charpentier / Couvreuse charpentière",
+        "Aide plombier / plombière",
+        16.666666666666668,
+        1,
+        6,
+        5,
+        [
+          "Procédés de brasage",
+          "Techniques de soudure",
+          "Poser des tuiles",
+          "Poser des ardoises",
+          "Déposer une toiture"
+        ]
+      ],
+      [
+        "Couvreur charpentier / Couvreuse charpentière",
+        "Plombier / Plombière sanitaire",
+        16.666666666666668,
+        1,
+        6,
+        5,
+        [
+          "Procédés de brasage",
+          "Normes de sécurité liées au gaz",
+          "Poser des tuiles",
+          "Poser des ardoises",
+          "Déposer une toiture"
+        ]
+      ],
+      [
+        "Couvreur charpentier / Couvreuse charpentière",
+        "Agent / Agente d''entretien du bâtiment",
+        16.666666666666668,
+        1,
+        6,
+        5,
+        [
+          "Procédés de brasage",
+          "Normes de sécurité liées au gaz",
+          "Poser des tuiles",
+          "Poser des ardoises",
+          "Déposer une toiture"
+        ]
+      ],
+      [
+        "Couvreur charpentier / Couvreuse charpentière",
+        "Agent / Agente de maintenance industrielle",
+        16.666666666666668,
+        1,
+        6,
+        5,
+        [
+          "Procédés de brasage",
+          "Normes de sécurité liées au gaz",
+          "Poser des tuiles",
+          "Poser des ardoises",
+          "Déposer une toiture"
+        ]
+      ],
+      [
+        "Couvreur charpentier / Couvreuse charpentière",
+        "Dépanneur / Dépanneuse de chaudières domestiques",
+        16.666666666666668,
+        1,
+        6,
+        5,
+        [
+          "Procédés de brasage",
+          "Techniques de soudure",
+          "Poser des tuiles",
+          "Poser des ardoises",
+          "Déposer une toiture"
+        ]
+      ]
+    ]
+  }
