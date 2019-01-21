@@ -8,3 +8,7 @@ prototype/ihm/AJCompo/package-lock\.json
 prototype/golang/src/indusawslambda/get\.ps1
 
 prototype/golang/pkg/windows_amd64/indusawslambda/handler\.a
+
+prototype/ihm/node_modules/@types/node/
+
+prototype/ihm/package-lock\.json
